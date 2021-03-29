@@ -10,10 +10,11 @@
 
 ### 📫 How to reach me:
 
+[<img alt="LinkedIn" width="22px" src="https://https://pics.freeicons.io/uploads/icons/png/1243378061556274004-512.png" />][phone]&nbsp;&nbsp;
 [<img alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]&nbsp;&nbsp;
 [<img alt="E-Mail" width="28px" src="https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/439/aiga_mail-512.png" />][email]&nbsp;&nbsp;
 [<img alt="Website" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />][whatsapp]&nbsp;&nbsp;
-<img alt="LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/4189112631553666147-512.png" />&nbsp;&nbsp;
+[<img alt="LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/4189112631553666147-512.png" />][linkedin]&nbsp;&nbsp;
 [<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]&nbsp;&nbsp;
 [<img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
@@ -50,9 +51,11 @@
 - [A Photographer Website(Under development)](https://pesheng.herokuapp.com/home)
 
 
+[phone]: tel:49-176-345-06606
 [website]: https://alaa-alghazouli.herokuapp.com
 [pesheng]: https://pesheng.herokuapp.com/home
 [email]: mailto:alaa.alghazouli@web.de
+[linkedin]: https://linkedin.com/in/alaa-alghazouli-1608b620a
 [whatsapp]: https://wa.me/4917634506606
 [instagram]: https://www.instagram.com/al_alghazouli/
 [facebook]: https://www.facebook.com/alaa.alghazouli.92
