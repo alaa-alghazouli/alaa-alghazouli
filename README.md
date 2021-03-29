@@ -10,7 +10,6 @@
 
 ### 📫 How to reach me:
 
-[<img alt="Phone" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16941631731553228387-512.png" />][phone]&nbsp;&nbsp;
 [<img alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]&nbsp;&nbsp;
 [<img alt="E-Mail" width="28px" src="https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/439/aiga_mail-512.png" />][email]&nbsp;&nbsp;
 [<img alt="Website" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />][whatsapp]&nbsp;&nbsp;
@@ -51,7 +50,6 @@
 - [A Photographer Website(Under development)](https://pesheng.herokuapp.com/home)
 
 
-[phone]: tel:+4917634506606
 [website]: https://alaa-alghazouli.herokuapp.com
 [pesheng]: https://pesheng.herokuapp.com/home
 [email]: mailto:alaa.alghazouli@web.de
