@@ -13,6 +13,7 @@
 [<img alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]&nbsp;&nbsp;
 [<img alt="E-Mail" width="28px" src="https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/439/aiga_mail-512.png" />][email]&nbsp;&nbsp;
 [<img alt="Website" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />][whatsapp]&nbsp;&nbsp;
+[<img alt="LinkedIn" width="22px" src="https://simpleicons.org/linkedin/linkedin.svg" />][linkedin]&nbsp;&nbsp;
 [<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]&nbsp;&nbsp;
 [<img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
