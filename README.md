@@ -14,7 +14,7 @@
 [<img alt="E-Mail" width="28px" src="https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/439/aiga_mail-512.png" />][email]&nbsp;&nbsp;
 [<img alt="Website" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />][whatsapp]&nbsp;&nbsp;
 [<img alt="LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/4189112631553666147-512.png" />][linkedin]&nbsp;&nbsp;
-[<img alt="Xing" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16802248441582863595-512.png" />][xing]&nbsp;&nbsp;
+[<img alt="Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]&nbsp;&nbsp;
 [<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]&nbsp;&nbsp;
 [<img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
