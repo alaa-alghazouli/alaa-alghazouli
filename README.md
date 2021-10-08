@@ -58,7 +58,7 @@
 [twaa]: https://www.twaa.com
 [email]: mailto:alaa.alghazouli@web.de
 [linkedin]: https://linkedin.com/in/alaa-alghazouli-1608b620a
-[xing]: https://www.xing.com/profile/Alaa_Alghazouli
+[xing]: https://www.xing.com/profile/alaa_alghazouli
 [whatsapp]: https://wa.me/4917634506606
 [instagram]: https://www.instagram.com/al_alghazouli/
 [facebook]: https://www.facebook.com/alaa.alghazouli.92
