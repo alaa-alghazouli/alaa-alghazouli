@@ -2,7 +2,7 @@
 
 ### I'm a Programmer, Designer, Photographer, and Computer Geek!!
 
-- 📋 I’m currently working on 🤖 [Pesheng][pesheng]
+- 📋 I’m currently working on 🤖 [Pesheng][pesheng], [Twaa][twaa]
 - 📚 I’m currently learning Git, Javascript and German Language
 - 🏆 2021 Goals: Release my own Project, start Vocational Training
 - ⚡ Fun facts: I love to sing and play violin / guitar
@@ -46,12 +46,13 @@
 
 ### Latest Projects
 
-- [My Personal Website (Under development)](https://alaa-alghazouli.herokuapp.com)
+- [Resume builder Project (Under development)](https://twaa.com)
 - [A Photographer Website(Under development)](https://pesheng.herokuapp.com/home)
 
 
 [website]: https://alaa-alghazouli.herokuapp.com
 [pesheng]: https://pesheng.herokuapp.com/home
+[twaa]: https://www.twaa.com
 [email]: mailto:alaa.alghazouli@web.de
 [linkedin]: https://linkedin.com/in/alaa-alghazouli-1608b620a
 [whatsapp]: https://wa.me/4917634506606
