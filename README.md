@@ -16,7 +16,6 @@
 [<img alt="LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/4189112631553666147-512.png" />][linkedin]&nbsp;&nbsp;
 [<img alt="Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]&nbsp;&nbsp;
 [<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]&nbsp;&nbsp;
-[<img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 ---
 
