@@ -3,10 +3,8 @@
 ### I'm a Programmer, Designer, Photographer, and Computer Geek!!
 
 - 📋 I’m currently working on 🤖 [Pesheng][pesheng], [Twaa][twaa]
-- 📚 I’m currently learning Git, Javascript and German Language
-- 🏆 2021 Goals: Release my own Project, start Vocational Training
-- ⚡ Fun facts: I love to sing and play violin / guitar
-- 🏋️ Workout everyday!
+- 📚 currently learning Vue.js and German Language
+- 🏋️ Workout!
 
 ### 📫 How to reach me:
 
