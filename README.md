@@ -1,6 +1,5 @@
 ## <p  name="top">Introduction</p>
 
-### I'm a Programmer, Photographer and Computer Geek!!
 
 ### 📫 How to reach me:
 
