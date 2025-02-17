@@ -2,10 +2,6 @@
 
 ### I'm a Programmer, Photographer and Computer Geek!!
 
-- 📋 I’m currently working on 🤖 [Jwantatt][jwantatt], [Twaa][twaa]
-- 📚 currently i am improving my german language
-- 🏋️ Workout!
-
 ### 📫 How to reach me:
 
 [<img alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]&nbsp;&nbsp;
